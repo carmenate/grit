@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
